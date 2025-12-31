@@ -1,0 +1,14 @@
+skills=[
+    "python",
+    "sql",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "scikit-learn",
+    "tensorflow",
+    "pytorch",
+    "docker",
+    "streamlit"
+]
